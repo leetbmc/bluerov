@@ -1,0 +1,28 @@
+1. M5x12 Cross Head Plastic Screws bottom out in aluminum channel
+before screw head pulls the mounting plate tight. Leaves 1/16" slop
+between screw head and mounting plate. So the platform is a little
+bit wiggly after the whole thing goes together. Not a big deal, but
+noticeable.
+
+2. In assembly instructions, text description of thruster numbers
+does not seem to match illustration. Illustration labels vertical
+thrusters as #3 and #4, horizontal as #1 and #2. Text says the
+reverse. Looking at the subsequent cable length recommendations, I
+think the problem is that the thrusters are mis-labeled in the
+illustration. Also it's unclear how the, "from left to right"
+guidance corresponds to the illustration.
+
+3. The screws holding the nozzle onto the thruster are a little bit
+delicate to be unscrewing and screwing repeatedly. I made a mistake
+with the orientation of one of the nozzles, and ended up having to
+unscrew and rescrew that thruster body twice. I don't think I
+stripped any, but it was certainly delicate. I don't know if they
+make flush-head hex screws like that, but it'd be a little more
+robust.
+
+4. On the assembly page at http://docs.bluerobotics.com/bluerov/#assembly
+the link to the pressure capsule assembly instructions is broken.
+http://docs.bluerobotics.com/watertight-enclosures/4-series/#assembly
+should probably be
+http://docs.bluerobotics.com/watertight-enclosures/#assembly instead.
+
